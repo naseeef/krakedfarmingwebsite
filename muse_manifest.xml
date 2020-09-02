@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="krakedfarming.com" resolutions="1x" timestamp="1599024329332">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="krakedfarming.com" resolutions="1x" timestamp="1599034954813">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="112004788" ref="index"/>
+    <file name="index.css" crc="4118400135" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -12,8 +12,8 @@
   </folder>
   <folder name="images">
     <file name="8154.jpg" crc="481633651" ref="index"/>
-    <file name="u102-6.png" crc="4267241975" ref="index"/>
-    <file name="u112-3.png" crc="503412438" ref="index"/>
+    <file name="u102-6.png" crc="3903019443" ref="index"/>
+    <file name="u112-3.png" crc="3796692501" ref="index"/>
   </folder>
-  <file name="index.html" crc="4150270473" seo="true" mt="1599024110673" redirect="true"/>
+  <file name="index.html" crc="389937" seo="true" mt="1599034817286" redirect="true"/>
 </manifest>
